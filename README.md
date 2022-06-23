@@ -1,5 +1,5 @@
 # Space Hopper
-[Space Hopper screenshot](docs/screenshot02.jpg)
+![Space Hopper screenshot](docs/screenshot02.jpg)
 
 ## Brief description of the game
 2D side scroller where you explore alien worlds, jump over the gaps, shoot monsters and collect coins to finally raise a flag at the end of each level.
