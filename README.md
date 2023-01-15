@@ -5,6 +5,9 @@
 2D side scroller where you explore alien worlds, jump over the gaps, shoot monsters and collect coins to finally raise a flag at the end of each level.
 Inspired by Super Mario Bros and Contra which I have played on my Famicom clone ages ago!
 
+## Gameplay demo
+![Gameplay demo](/docs/spaceHopper_demo.gif)
+
 ## Known bugs/problems
   All rather not game breaking.
   - Hero might get stuck in the terrain when there is a "step" in the terrain and the player stands between two blocks, clipping into one of them.
